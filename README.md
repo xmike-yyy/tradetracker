@@ -61,13 +61,6 @@ A personal trading tracker application built to help traders log and analyze the
 
 ---
 
-## **Screenshots**
-
-![Calendar View](./screenshots/calendar.png)
-![Dashboard](./screenshots/dashboard.png)
-
----
-
 ## **Contributing**
 
 Contributions are welcome! If you'd like to contribute, please open an issue or submit a pull request.
